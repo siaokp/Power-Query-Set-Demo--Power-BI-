@@ -1,5 +1,14 @@
 # Power Query Set Demo (Power BI)
 
+
+##  Power BI – Core Insights
+
+![Core Insights Dashboard](images/core-insights.png)
+
+##  Profit Performance Dashboard
+
+![Profit Dashboard](images/profit-dashboard.png)
+
 A small Power BI project built to demonstrate **Power Query cleaning (ETL)** + a simple **report/dashboard layer** on top of a deliberately “messy” sales dataset.
 
 This repo is designed as a practical example of the kind of work you’d do before any visuals are trustworthy:
